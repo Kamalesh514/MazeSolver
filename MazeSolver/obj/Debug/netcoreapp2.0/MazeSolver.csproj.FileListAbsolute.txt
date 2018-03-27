@@ -1,0 +1,11 @@
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.deps.json
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.runtimeconfig.json
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.runtimeconfig.dev.json
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.dll
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\bin\Debug\netcoreapp2.0\MazeSolver.pdb
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.csprojResolveAssemblyReference.cache
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.csproj.CoreCompileInputs.cache
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.AssemblyInfoInputs.cache
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.AssemblyInfo.cs
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.dll
+c:\users\dev-kracherl\source\repos\MazeSolver\MazeSolver\obj\Debug\netcoreapp2.0\MazeSolver.pdb
